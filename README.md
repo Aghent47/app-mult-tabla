@@ -1,5 +1,8 @@
 
 # Notas:
+```
+npm install 
+```
 
 Este es un programa en Nodejs
 
